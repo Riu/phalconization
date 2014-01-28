@@ -39,3 +39,5 @@ https://github.com/Riu/phaldoc - App create to translate Phalcon docs
 https://github.com/blackbunny/Url-Shortener- Simple Fast Url-Shortener application on Phalcon PHP Framework
 
 https://github.com/duythien/blog - Blog project Multi-lingual Support
+
+https://github.com/duythien/sendmail - Sending Confirmation Emails with Phalcon and Swift (app for this article: http://www.sitepoint.com/sending-confirmation-emails-phalcon-swift/)
