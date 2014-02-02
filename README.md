@@ -41,3 +41,5 @@ https://github.com/blackbunny/Url-Shortener- Simple Fast Url-Shortener applicati
 https://github.com/duythien/blog - Blog project Multi-lingual Support
 
 https://github.com/duythien/sendmail - Sending Confirmation Emails with Phalcon and Swift (app for this article: http://www.sitepoint.com/sending-confirmation-emails-phalcon-swift/)
+
+https://github.com/jymboche/phalcon-debug-widget - Frontend Debugger for phalconphp
