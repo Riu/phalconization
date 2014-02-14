@@ -43,3 +43,5 @@ https://github.com/duythien/blog - Blog project Multi-lingual Support
 https://github.com/duythien/sendmail - Sending Confirmation Emails with Phalcon and Swift (app for this article: http://www.sitepoint.com/sending-confirmation-emails-phalcon-swift/)
 
 https://github.com/jymboche/phalcon-debug-widget - Frontend Debugger for phalconphp
+
+https://github.com/oleksandr-torosh/phalcon-modular-app - App with modular structure
