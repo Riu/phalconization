@@ -45,3 +45,5 @@ https://github.com/duythien/sendmail - Sending Confirmation Emails with Phalcon 
 https://github.com/jymboche/phalcon-debug-widget - Frontend Debugger for phalconphp
 
 https://github.com/oleksandr-torosh/phalcon-modular-app - App with modular structure
+
+https://github.com/jeteokeeffe/php-hmac-rest-api - PHP HMAC Restful API that uses Phalcon Micro framework
