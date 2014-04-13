@@ -47,3 +47,7 @@ https://github.com/jymboche/phalcon-debug-widget - Frontend Debugger for phalcon
 https://github.com/oleksandr-torosh/phalcon-modular-app - App with modular structure
 
 https://github.com/jeteokeeffe/php-hmac-rest-api - PHP HMAC Restful API that uses Phalcon Micro framework
+
+https://github.com/nexik/nest - Phalcon SOLID Bootstrap for Rapid Application Development
+
+https://github.com/nexik/phalcon-form-decorators - Easy rendering Phalcon Forms 
