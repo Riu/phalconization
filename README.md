@@ -49,3 +49,5 @@ https://github.com/jeteokeeffe/php-hmac-rest-api - PHP HMAC Restful API that use
 https://github.com/nexik/nest - Phalcon SOLID Bootstrap for Rapid Application Development
 
 https://github.com/nexik/phalcon-form-decorators - Easy rendering Phalcon Forms 
+
+https://github.com/softdream/Phalcon-autorouter - Simple way to auto load modules without complicate definition of routes
