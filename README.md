@@ -51,3 +51,5 @@ https://github.com/nexik/nest - Phalcon SOLID Bootstrap for Rapid Application De
 https://github.com/nexik/phalcon-form-decorators - Easy rendering Phalcon Forms 
 
 https://github.com/softdream/Phalcon-autorouter - Simple way to auto load modules without complicate definition of routes
+
+https://github.com/sumeko/phalcon-oauth2 - Phalcon wrapper for Oauth2 thephpleague/oauth2-server
