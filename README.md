@@ -53,3 +53,9 @@ https://github.com/nexik/phalcon-form-decorators - Easy rendering Phalcon Forms
 https://github.com/softdream/Phalcon-autorouter - Simple way to auto load modules without complicate definition of routes
 
 https://github.com/sumeko/phalcon-oauth2 - Phalcon wrapper for Oauth2 thephpleague/oauth2-server
+
+https://github.com/goors/phalcon-api-ouath2 - Full phalcon rest api example with is own Ouath2 server
+
+https://github.com/nohatssir/nova - Media manager project in PHP with Phalcon
+
+https://github.com/phrest/api - Phalcon PHP REST Core API Package
