@@ -59,3 +59,17 @@ https://github.com/goors/phalcon-api-ouath2 - Full phalcon rest api example with
 https://github.com/nohatssir/nova - Media manager project in PHP with Phalcon
 
 https://github.com/phrest/api - Phalcon PHP REST Core API Package
+
+https://github.com/ewartx/PhalconPHP-Setup-Example - Phalcon + Grunt + Composer + Bower
+
+https://github.com/hikaliv/PhalconWeb - another sample of web site build with Phalcon
+
+https://github.com/adamdama/Talon - CMS built on Phalcon Framework
+
+https://github.com/JimmDiGrizli/phalcon-autoload-services - Components for automatic registration services in Dependency Injection
+
+https://github.com/wandersonwhcr/phact -  Simple Event Propagation with Phalcon Framework
+
+https://github.com/monocasual/giada-www - Official website of Giada Loop Machine - powered by Phalcon
+
+https://github.com/ovide/phest - Rest API library for Phalcon
