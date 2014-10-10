@@ -73,3 +73,5 @@ https://github.com/wandersonwhcr/phact -  Simple Event Propagation with Phalcon 
 https://github.com/monocasual/giada-www - Official website of Giada Loop Machine - powered by Phalcon
 
 https://github.com/ovide/phest - Rest API library for Phalcon
+
+https://github.com/phalconist/phalconist - Get more resources for Phalcon framework on http://phalconist.com
