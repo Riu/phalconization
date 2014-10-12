@@ -6,6 +6,8 @@ https://github.com/cmoore4/phalcon-rest - A Base project for APIs using the Phal
 
 https://github.com/calinrada/PhalconUserPlugin - Phalcon User Plugin is a plugin based on Vokuro ACL idea
 
+https://github.com/ovr/phalcon-module-skeleton Phalcon application with multi-modules structure and other stuff for best development. [web demo](http://phalcon-module.dmtry.me/)
+
 https://github.com/mruz/base-app - The base application in PhalconPHP
 
 https://github.com/michaelkrone/generator-phalcon - Yeoman generator for Phalcon php multi-module applications
