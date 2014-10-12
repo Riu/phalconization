@@ -77,3 +77,5 @@ https://github.com/monocasual/giada-www - Official website of Giada Loop Machine
 https://github.com/ovide/phest - Rest API library for Phalcon
 
 https://github.com/phalconist/phalconist - Get more resources for Phalcon framework on http://phalconist.com
+
+https://github.com/mikegioia/phalcon-boilerplate - Phalcon Boilerplate is a template for building large-scale PhalconPHP applications. It contains the structure and configuration for managing a big project. 
