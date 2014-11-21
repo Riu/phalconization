@@ -79,3 +79,7 @@ https://github.com/ovide/phest - Rest API library for Phalcon
 https://github.com/phalconist/phalconist - Get more resources for Phalcon framework on http://phalconist.com
 
 https://github.com/mikegioia/phalcon-boilerplate - Phalcon Boilerplate is a template for building large-scale PhalconPHP applications. It contains the structure and configuration for managing a big project. 
+
+https://github.com/Atriedes/phalcon-restful-webservice - Base project for creating powerful webservice based on PhalconPHP framework
+
+https://github.com/serebro/phalcon-service-loader - Service loader for Phalcon PHP Framework
