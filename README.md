@@ -83,3 +83,6 @@ https://github.com/mikegioia/phalcon-boilerplate - Phalcon Boilerplate is a temp
 https://github.com/Atriedes/phalcon-restful-webservice - Base project for creating powerful webservice based on PhalconPHP framework
 
 https://github.com/serebro/phalcon-service-loader - Service loader for Phalcon PHP Framework
+
+https://github.com/vegas-cmf - Vegas shares aspects of a web application framework and a content management system. Lot of stand-alone libraries like annotations based ACL, oAuth or filesystem, new forms and validators.
+
