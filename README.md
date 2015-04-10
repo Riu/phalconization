@@ -86,3 +86,5 @@ https://github.com/serebro/phalcon-service-loader - Service loader for Phalcon P
 
 https://github.com/vegas-cmf - Vegas shares aspects of a web application framework and a content management system. Lot of stand-alone libraries like annotations based ACL, oAuth or filesystem, new forms and validators.
 
+https://github.com/stanislav-web/phalcon-sms-factory - Phalcon SMS Factory
+
