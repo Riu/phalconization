@@ -12,8 +12,6 @@ https://github.com/mruz/base-app - The base application in PhalconPHP
 
 https://github.com/michaelkrone/generator-phalcon - Yeoman generator for Phalcon php multi-module applications
 
-https://github.com/webit4me/RestPhalcon - A restful library for phalcon php
-
 https://github.com/JimmDiGrizli/phalcon-bootstrap - Bootstrap component for a quick start developing applications on Phalcon
 
 https://github.com/eristoddle/phalconBlog - A blog using the Phalcon PHP Framework
