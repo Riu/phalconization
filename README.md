@@ -89,3 +89,5 @@ https://github.com/stanislav-web/phalcon-sms-factory - Phalcon SMS Factory
 https://github.com/stanislav-web/phalcon-uploader - Handling and downloading files for Phalcon projects. Allowed multiple files, filters etc...
 
 https://github.com/stanislav-web/Searcher - Database searcher for Phalcon Framework. This is the search service is designed to search multiple SQL tables. Convenient to use autocomplete, search documents, search the whole site.
+
+https://github.com/oleksandr-torosh/yona-cms - Yona CMS - open source content management system (CMS). 
