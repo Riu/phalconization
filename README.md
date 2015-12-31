@@ -101,3 +101,5 @@ https://github.com/mctekk/phalcon-cheat-sheet -  PhalconPHP Cheat Sheet http://p
 https://github.com/niden/blog - niden.net Blog 
 
 https://github.com/phanbook/phanbook - A Q&A, CMS and Discussion PHP platform
+
+https://github.com/duythien/phalcon-api - Phalcon api example 
