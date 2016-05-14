@@ -103,3 +103,5 @@ https://github.com/niden/blog - niden.net Blog
 https://github.com/phanbook/phanbook - A Q&A, CMS and Discussion PHP platform
 
 https://github.com/duythien/phalcon-api - Phalcon api example 
+
+https://github.com/quasipickle/feedback - replacement for Phalcon's built-in Flash and Message functionalities
