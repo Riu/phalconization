@@ -105,3 +105,7 @@ https://github.com/phanbook/phanbook - A Q&A, CMS and Discussion PHP platform
 https://github.com/duythien/phalcon-api - Phalcon api example 
 
 https://github.com/quasipickle/feedback - replacement for Phalcon's built-in Flash and Message functionalities
+
+https://github.com/talal424/phalconBootstrapper - single bootstrap for multiple phalcon projects
+
+https://github.com/talal424/sentinel - integration Phalcon with Cartalyst/Sentinel - framework agnostic authentication & authorization system.
